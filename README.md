@@ -44,6 +44,10 @@ The Written message: https://github.com/PhredBotums/The-Playlists/blob/main/mess
 
 The Spotify playlist: https://open.spotify.com/playlist/6Lkg8IWUOWVR8Cvdz2sNEZ?si=b4515cf0e3b14fad
 
-The YouTube playlist: https://youtube.com/playlist?list=PLkWBpZrkQEtHZGU3dqgWyHNeMtpBPxC-j&si=lkAqXKxrvLvh1DoK
+The YouTube playlist: https://youtube.com/playlist?list=PLd__lTX4RDQLJlRmWU_RdCUttfCvoEFIf&si=msfuaSqwqJ5VRsru
 
 The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_4
+
+***********************************************************************************************************************
+
+Thanks for listening.
