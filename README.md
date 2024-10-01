@@ -1,4 +1,4 @@
-# The Alien Phred Botums and His Messages.
+# The Alien Phred Botums and Their Messages.
 
 ## Dear Humans,
 
