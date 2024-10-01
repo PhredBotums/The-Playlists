@@ -2,6 +2,14 @@
 
 ## Dear Humans,
 
+I have come from far away to study your kind. In the process, I have learned how to use a few tools that you humans seem to enjoy, including GitHub. I want to share with you some messages I have written. 
+
+These messages have two components and I advise you to enjoy them both. You see, in text I have a written message for you. But in learning of the complexity of human nature, I have decided to supplement the messages.
+
+One sense to indulge is simply not enough for your kind. I must create a more complete picture by allowing you to receive the message in two ways. And so, the music is an extension of the message. Or the other way around. That, dear human, is up to you to decide.
+
+I have compiled all of the relevant documents and links in this GitHub repository. Here you will find all of the messages that I have written so far, along with their corresponding playlists.
+
 ## Message 1
 
 The Written message: https://github.com/PhredBotums/The-Playlists/blob/main/message_1/message_1.pdf
