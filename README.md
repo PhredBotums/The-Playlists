@@ -58,4 +58,4 @@ The playlist image and tracklisting can be found here: https://github.com/PhredB
 
 ***********************************************************************************************************************
 
-Thanks for listening.
+Thank you for listening.
