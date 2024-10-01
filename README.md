@@ -8,7 +8,7 @@ The Written message: https://github.com/PhredBotums/The-Playlists/blob/main/mess
 
 The Spotify playlist: https://open.spotify.com/playlist/25khz1vBynUvEbLTaGguEN?si=251331145b3c4717
 
-The YouTube playlist: https://youtube.com/playlist?list=PLkWBpZrkQEtGLQ4_BCrvUpnuAOcOPqU6N&si=YgKplxs9NpA5PSpV
+The YouTube playlist: https://youtube.com/playlist?list=PLd__lTX4RDQIf8WFkzr1Mp16ltB7_ISi8&si=I357dRjwE3i3ozLN
 
 The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_1
 
@@ -20,7 +20,7 @@ The Written message: https://github.com/PhredBotums/The-Playlists/blob/main/mess
 
 The Spotify playlist: https://open.spotify.com/playlist/11ylv36ChzKcPfTVAAndx4?si=49412c2b4e844855
 
-The YouTube playlist: https://youtube.com/playlist?list=PLkWBpZrkQEtFfFcUKM2deferA6rh69XuR&si=O9RfvQoz5Zj4taOl
+The YouTube playlist: https://youtube.com/playlist?list=PLd__lTX4RDQK7MkAFS3ZRxN7Om_61hnYg&si=-22n3J_fy7NEASJa
 
 The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_2
 
