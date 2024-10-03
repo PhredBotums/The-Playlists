@@ -32,6 +32,8 @@ The *Spotify* playlist: https://open.spotify.com/playlist/11ylv36ChzKcPfTVAAndx4
 
 The *YouTube* playlist: https://youtube.com/playlist?list=PLd__lTX4RDQK7MkAFS3ZRxN7Om_61hnYg&si=-22n3J_fy7NEASJa
 
+The *Apple Music* playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-2/pl.u-MDAWklGs3WZEREm
+
 The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_2
 
 ***********************************************************************************************************************
