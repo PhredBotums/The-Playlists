@@ -40,7 +40,7 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 3
 
-The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_3/message_3.pdf
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_3/message_3.png
 
 The **Spotify** playlist: https://open.spotify.com/playlist/4iTy6dBU2qjgSqUDgQLXBB?si=6b97a94a4c984894
 
