@@ -12,7 +12,7 @@ I have compiled all of the relevant documents and links in this GitHub repositor
 
 ## Message 1
 
-The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_1/message_1.pdf
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_1/message_1.png
 
 The **Spotify** playlist: https://open.spotify.com/playlist/25khz1vBynUvEbLTaGguEN?si=251331145b3c4717
 
