@@ -20,7 +20,7 @@ The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQIf8WFkzr
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-1/pl.u-EdAVkl3TqaWpGpP
 
-The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_1
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_1
 
 ***********************************************************************************************************************
 
@@ -34,7 +34,7 @@ The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQK7MkAFS3
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-2/pl.u-MDAWklGs3WZEREm
 
-The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_2
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_2
 
 ***********************************************************************************************************************
 
@@ -48,7 +48,7 @@ The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQJu4UmnE1
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-3/pl.u-06oxp9ys7Wrl9le
 
-The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_3
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_3
 
 ***********************************************************************************************************************
 
@@ -62,7 +62,7 @@ The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQLJlRmWU_
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-4/pl.u-XkD0vDkhgD16N6A
 
-The playlist image and tracklisting can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_4
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_4
 
 ***********************************************************************************************************************
 
