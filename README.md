@@ -75,6 +75,7 @@ sharing my messages, no matter my financial state. However, I do promise that an
 creating even more beautiful things for you, my dear humans.
 
 Please, enjoy my messages and the music—no matter what you decide. The Patreon link is:
+
 https://patreon.com/PhredBotums?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
-Thank you for listening.
+## Thank you for listening.
