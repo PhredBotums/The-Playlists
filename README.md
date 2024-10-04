@@ -66,4 +66,15 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ***********************************************************************************************************************
 
+I am truly enjoying my time here on Earth, but there’s a small problem I’ve encountered. You see, experiencing all of this,
+writing these messages to you—it takes time. And as it turns out, Earth doesn’t accept Andromeda Coins. That’s fine, though.
+I’m sure you’ll catch up one day. For now, however, I’ve realized I need to find a way to earn some Earth dollars.
+
+I’ve set up a Patreon page in the hopes of gathering some of those Earth dollars. I want to assure you that I will continue
+sharing my messages, no matter my financial state. However, I do promise that any dollars I receive will go directly toward
+creating even more beautiful things for you, my dear humans.
+
+Please, enjoy my messages and the music—no matter what you decide. The Patreon link is:
+https://patreon.com/PhredBotums?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+
 Thank you for listening.
