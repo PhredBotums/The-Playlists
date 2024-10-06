@@ -84,6 +84,6 @@ https://patreon.com/PhredBotums?utm_medium=unknown&utm_source=join_link&utm_camp
 
 X / Twitter: https://x.com/phredbotums
 
-Instagram: 
+Instagram: https://www.instagram.com/phredbotums
 
 ## Thank you for listening.
