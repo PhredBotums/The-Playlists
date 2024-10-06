@@ -86,4 +86,6 @@ X / Twitter: https://x.com/phredbotums
 
 Instagram: https://www.instagram.com/phredbotums
 
+TikTok: https://www.tiktok.com/@phredbotums
+
 ## Thank you for listening.
