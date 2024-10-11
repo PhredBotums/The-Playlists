@@ -76,7 +76,7 @@ The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQJTS3X_nS
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-5/pl.u-r2yBDkXIePM3q3p
 
-The playlist image, tracklisting, and pdf files can be found here: 
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_5
 
 ***********************************************************************************************************************
 
