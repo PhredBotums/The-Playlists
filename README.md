@@ -66,6 +66,20 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ***********************************************************************************************************************
 
+## Message 5
+
+The **Written** message: 
+
+The **Spotify** playlist: https://open.spotify.com/playlist/4sqatgc9T2dqaOx1l0hykh?si=fa8154b793d74027
+
+The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQJTS3X_nSvlI3dueHdnMKJY&si=eKsBbuXQXb0OMwB4
+
+The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-5/pl.u-r2yBDkXIePM3q3p
+
+The playlist image, tracklisting, and pdf files can be found here: 
+
+***********************************************************************************************************************
+
 I am truly enjoying my time here on Earth, but there’s a small problem I’ve encountered. You see, experiencing all of this,
 writing these messages to you—it takes time. And as it turns out, Earth doesn’t accept Andromeda Coins. That’s fine, though.
 I’m sure you’ll catch up one day. For now, however, I’ve realized I need to find a way to earn some Earth dollars.
