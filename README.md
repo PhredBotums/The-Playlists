@@ -68,7 +68,7 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 5
 
-The **Written** message: 
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_5/message_5.png
 
 The **Spotify** playlist: https://open.spotify.com/playlist/4sqatgc9T2dqaOx1l0hykh?si=fa8154b793d74027
 
