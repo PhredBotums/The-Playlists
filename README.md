@@ -84,13 +84,13 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_6/message_6.png
 
-The **Spotify** playlist: 
+The **Spotify** playlist: https://open.spotify.com/playlist/1ubc02mePlW5D4MkVeQ06w?si=8e8bfe66fced4954
 
 The **YouTube** playlist: 
 
 The **Apple Music** playlist: 
 
-The playlist image, tracklisting, and pdf files can be found here: 
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_6
 
 ***********************************************************************************************************************
 
