@@ -82,7 +82,7 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 6
 
-The **Written** message: 
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_6/message_6.png
 
 The **Spotify** playlist: 
 
