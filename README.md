@@ -86,7 +86,7 @@ The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/
 
 The **Spotify** playlist: https://open.spotify.com/playlist/1ubc02mePlW5D4MkVeQ06w?si=8e8bfe66fced4954
 
-The **YouTube** playlist: 
+The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQIlOIHBvKDC1_UGALxIytD9&si=qAHDXx6oQbBJbJ3K
 
 The **Apple Music** playlist: 
 
