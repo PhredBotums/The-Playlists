@@ -96,7 +96,7 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 7
 
-The **Written** message: 
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_7/Transmission%20to%20Earth%20Message%20%237.txt
 
 The **Spotify** playlist: 
 
@@ -104,7 +104,7 @@ The **YouTube** playlist:
 
 The **Apple Music** playlist: 
 
-The playlist image, tracklisting, and pdf files can be found here: 
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_7
 
 ***********************************************************************************************************************
 
