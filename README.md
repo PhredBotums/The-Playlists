@@ -100,7 +100,7 @@ The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/
 
 The **Spotify** playlist: https://open.spotify.com/playlist/3j9M4DdGDc8vixuYpnlr0E?si=18c2ce1a0b034607
 
-The **YouTube** playlist: 
+The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQIp3s4qpmMY8eOXakC007Sd&si=WkrfpLxhOQ8Nppy_
 
 The **Apple Music** playlist: 
 
