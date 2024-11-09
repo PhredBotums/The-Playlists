@@ -102,7 +102,7 @@ The **Spotify** playlist: https://open.spotify.com/playlist/3j9M4DdGDc8vixuYpnlr
 
 The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQIp3s4qpmMY8eOXakC007Sd&si=WkrfpLxhOQ8Nppy_
 
-The **Apple Music** playlist: 
+The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-7/pl.u-MDAWkggu3WZEREm
 
 The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_7
 
