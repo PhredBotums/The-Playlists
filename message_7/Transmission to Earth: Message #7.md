@@ -2,7 +2,7 @@
 
 ### Dear Humans,
 
-There's good news and bad news. I'm still here on your planet but it appears that when I rigged my communications boosters to play all that music, I somehow sent a signal. The good news is this: my love, they heard me. I received a broken transmission from them to my ship. It read, "...I could feel it... I heard you're coming home... I've been waiting... it feels like yesterday... haven't seen you for years... now you're home... I'll be with you." And that was it.
+There's good news and bad news. I'm still here on your planet but it appears that when I rigged my communications boosters to play all that music, I somehow sent a signal. The good news is this: my love, they heard me. I received a broken transmission from them to my ship. It read, "...I could feel it... I heard you're coming home... I've been waiting... it feels like yesterday... haven't seen you for years... your home... your new home... I'll be with you." And that was it.
 
 I knew exactly what they meant. I was no longer afraid of the moment when we would be alone together again. They understand! My love. Keep listening. Remember me when we're far away. I'll be back for you soon.
 
