@@ -110,15 +110,15 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 8
 
-The **Written** message: 
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_8/Transmission%20to%20Earth%3A%20Message%20%238.md
 
-The **Spotify** playlist: 
+The **Spotify** playlist: https://open.spotify.com/playlist/0vk4CUcuSX39cndlqLPqPe?si=f94df2c41a1248f8
 
-The **YouTube** playlist: 
+The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQJ9kfgQ4dEnctZJIgGlQMtg&si=lasJaoMwpn-goP5V
 
 The **Apple Music** playlist: 
 
-The playlist image, tracklisting, and pdf files can be found here: 
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_8
 
 ***********************************************************************************************************************
 
