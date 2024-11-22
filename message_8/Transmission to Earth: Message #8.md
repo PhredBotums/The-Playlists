@@ -20,6 +20,6 @@ He stopped again, closed his eyes, and slowly resumed his dance—his movements 
 
 “I know what's going through your mind, your heart. You feel the way I do. Because you have to. Because it’s the truth of things. Please, let me help you. I know when you see it, when you find it, you’ll understand. You’ll know why this is so hard for us. Why we sometimes do things that seem unlike ourselves. You’re on the surface still. You don’t get it. You haven’t been here with us.”
 
-Again, for some time I could not measure, there was silence.
+Again, for some time I could not measure, there was silence. By now it was ice cold.
 
 ### Thank you for listening.
