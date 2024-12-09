@@ -124,15 +124,15 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ## Message 9
 
-The **Written** message: 
+The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/message_9/Transmission%20to%20Earth%3A%20Message%20%239.md
 
-The **Spotify** playlist: 
+The **Spotify** playlist: https://open.spotify.com/playlist/56NnscqRe1cBNX2PPJtlZ8?si=19d6f5ae311d438e
 
 The **YouTube** playlist: 
 
 The **Apple Music** playlist: 
 
-The playlist image, tracklisting, and pdf files can be found here: 
+The playlist image, tracklisting, and pdf files can be found here: https://github.com/PhredBotums/The-Playlists/tree/main/message_9
 
 ***********************************************************************************************************************
 
