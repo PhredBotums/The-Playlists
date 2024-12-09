@@ -122,6 +122,20 @@ The playlist image, tracklisting, and pdf files can be found here: https://githu
 
 ***********************************************************************************************************************
 
+## Message 9
+
+The **Written** message: 
+
+The **Spotify** playlist: 
+
+The **YouTube** playlist: 
+
+The **Apple Music** playlist: 
+
+The playlist image, tracklisting, and pdf files can be found here: 
+
+***********************************************************************************************************************
+
 
 I am truly enjoying my time here on Earth, but there’s a small problem I’ve encountered. You see, experiencing all of this,
 writing these messages to you—it takes time. And as it turns out, Earth doesn’t accept Andromeda Coins. That’s fine, though.
