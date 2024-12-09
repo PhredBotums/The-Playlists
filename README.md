@@ -128,7 +128,7 @@ The **Written** message: https://github.com/PhredBotums/The-Playlists/blob/main/
 
 The **Spotify** playlist: https://open.spotify.com/playlist/56NnscqRe1cBNX2PPJtlZ8?si=19d6f5ae311d438e
 
-The **YouTube** playlist: 
+The **YouTube** playlist: https://youtube.com/playlist?list=PLd__lTX4RDQK732jKKl1r-T0CK2bufMgz&si=JAywaHsxgzdmwJC-
 
 The **Apple Music** playlist: https://music.apple.com/us/playlist/transmission-to-earth-message-9/pl.u-XkD0vBETgD16N6A
 
